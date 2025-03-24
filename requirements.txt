@@ -1,0 +1,5 @@
+langchain_google_vertexai 
+langgraph 
+google-cloud-aiplatform
+duckdb
+httpx==0.27.2
