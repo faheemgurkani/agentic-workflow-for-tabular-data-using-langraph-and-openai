@@ -4,6 +4,9 @@
 
 This project showcases an **Agentic AI System** leveraging the power of **LangGraph**, **OpenAI's LLMs**, and **LangChain Tools** to perform intelligent workflows on tabular datasets stored in a DuckDB database. The system demonstrates how autonomous AI agents can interact with structured data, execute tools, and maintain stateful, iterative reasoning.
 
+**Note:** This workflow is a single-agent system enhanced by a structured tool orchestration framework (LangGraph). It demonstrates agentic behavior but not multi-agent collaboration.
+
+
 ## Pipeline Architecture
 
 The system follows these core stages:
